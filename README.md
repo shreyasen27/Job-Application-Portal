@@ -44,13 +44,6 @@ npm start
 ### 4. Environment Variables
 Configure `.env` files for database connection and server secrets.
 
-## 🎥 Demo Videos
-
-### User Functionality
-[![User Demo]()](https://youtu.be/sdesWLqpMLg)
-
-### Admin Functionality
-[![Admin Demo]()](https://youtu.be/DN2jhTMLQ_w)
 
 ## Folder Structure
 
